@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "plotter", "plotter\plotter.csproj", "{45BBE8F4-F642-4F47-A361-EA540F9F2C19}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45BBE8F4-F642-4F47-A361-EA540F9F2C19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45BBE8F4-F642-4F47-A361-EA540F9F2C19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45BBE8F4-F642-4F47-A361-EA540F9F2C19}.Debug|x86.ActiveCfg = Debug|x86
+		{45BBE8F4-F642-4F47-A361-EA540F9F2C19}.Debug|x86.Build.0 = Debug|x86
+		{45BBE8F4-F642-4F47-A361-EA540F9F2C19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45BBE8F4-F642-4F47-A361-EA540F9F2C19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45BBE8F4-F642-4F47-A361-EA540F9F2C19}.Release|x86.ActiveCfg = Release|x86
+		{45BBE8F4-F642-4F47-A361-EA540F9F2C19}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
